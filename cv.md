@@ -1,6 +1,6 @@
-￼Andrew Palmer
+h1. Andrew Palmer
 Address: 75 Queen Elizabeth Way, Woking, Surrey, GU22 9AH Email: andy@andypalmer.com Mobile: +44 7939 081302 Blog: http://andypalmer.com
-Key Skills
+h2.Key Skills
 Over the last two years, I have helped several clients to transition their existing processes to a more flexible, improvement-focused system; for example, I coached several teams at Screwfix in Scrum and other relevant methodologies. I also helped design a course which I then delivered to train the next tranche of internal coaches.
 I have spoken at several international conferences on subjects as diverse as Acceptance Test Driven Development, Business Analysis with Feature Injection and Narrative Programming. My focus is on bridging the communication gap that frequently exists between the technical teams and the business.
 I am a very capable programmer in C#, most recently with Verivox in Germany where I coached and mentored in both Scrum practices and technical practices. I also have extensive experience in other languages including Java, Javascript and Ruby. I have run workshops on good software design, following SOLID principles, refactoring and writing software in a Behaviour Driven style.
