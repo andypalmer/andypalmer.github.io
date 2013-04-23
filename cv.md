@@ -1,3 +1,6 @@
+---
+title: Curriculum Vitae - Andrew Palmer
+---
 h1. Andrew Palmer
 Address: 75 Queen Elizabeth Way, Woking, Surrey, GU22 9AH Email: andy@andypalmer.com Mobile: +44 7939 081302 Blog: http://andypalmer.com
 h2.Key Skills
